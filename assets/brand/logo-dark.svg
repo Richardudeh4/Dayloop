@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1720" height="800" viewBox="0 0 1720 800">
+  <rect width="1720" height="800" fill="#0F172A"/>
+  <g transform="translate(80 120) scale(0.546875)">
+  <path d="M804.3,444.5 A300 300 0 1 1 579.5,219.7" fill="none" stroke="#FFFFFF" stroke-width="96" stroke-linecap="round"/>
+  <path d="M414,484 L496,566 L646,416" fill="none" stroke="#FFFFFF" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="724.1" cy="299.9" r="58" fill="#5EEAD4"/></g>
+  <text x="760" y="525" font-family="Avenir Next, Helvetica Neue, Arial" font-weight="600" font-size="300" letter-spacing="-6" fill="#FFFFFF">kairo</text>
+</svg>

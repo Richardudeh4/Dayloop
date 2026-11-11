@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1720" height="800" viewBox="0 0 1720 800">
+  <g transform="translate(80 120) scale(0.546875)">
+  <defs><linearGradient id="ring" x1="230" y1="820" x2="800" y2="220" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#0F766E"/><stop offset="1" stop-color="#14B8A6"/></linearGradient></defs>
+  <path d="M804.3,444.5 A300 300 0 1 1 579.5,219.7" fill="none" stroke="url(#ring)" stroke-width="96" stroke-linecap="round"/>
+  <path d="M414,484 L496,566 L646,416" fill="none" stroke="#0F766E" stroke-width="58" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="724.1" cy="299.9" r="54" fill="#FFFFFF" stroke="#14B8A6" stroke-width="14"/></g>
+  <text x="760" y="525" font-family="Avenir Next, Helvetica Neue, Arial" font-weight="600" font-size="300" letter-spacing="-6" fill="#0F172A">kairo</text>
+</svg>
